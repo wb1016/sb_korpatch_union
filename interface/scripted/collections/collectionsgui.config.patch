@@ -1,0 +1,22 @@
+[
+  {
+  "op":"replace",
+  "path":"/gui/windowtitle/title",
+  "value":"\uc218\uc9d1\ud488"
+  },
+	{
+		"op":"replace",
+		"path":"/gui/windowtitle/subtitle",
+		"value":"\ub2f9\uc2e0\uc774 \ubcf8 \ubaa8\ub4e0 \uac83\uacfc \ub2f9\uc2e0\uc774 \ud55c \ubaa8\ub4e0 \ud589\ub3d9\uc744 \ubaa9\ub85d\uc73c\ub85c \ub9cc\ub4dc\uc138\uc694!"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/selectLabel/value",
+		"value":"\uc218\uc9d1\ud488"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/emptyLabel/value",
+		"value":"\uc67c\ucabd\uc5d0\uc11c \uc218\uc9d1\ud488 \uc720\ud615\uc744 \uc120\ud0dd"
+	}
+]

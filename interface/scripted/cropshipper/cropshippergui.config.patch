@@ -1,0 +1,17 @@
+[
+  {
+		"op":"replace",
+		"path":"/gui/btnShip/caption",
+		"value":"\ubcf4\ub0b4\uae30"
+	},
+  {
+		"op":"replace",
+		"path":"/gui/lblMoneyLabel/value",
+		"value":"\uac00\uaca9 \ud569\uacc4"
+	},
+	{
+		"op":"replace",
+		"path":"/gui/count/value",
+		"value":"40 \uce78"
+	}
+]
