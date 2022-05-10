@@ -1,1 +1,27 @@
-[{"op": "replace", "path": "/message", "value": "\uc774 \uc784\ubb34\uc5d0\uc11c \ub5a0\ub098\uba74 \uc774 \uc9c0\uc5ed\uc758 \ubaa8\ub4e0 \uc9c4\ud589 \uc0c1\ud669\uc774 \ucd08\uae30\ud654\ub429\ub2c8\ub2e4. \uc815\ub9d0\ub85c \ud154\ub808\ud3ec\ud2b8\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?"}, {"op": "replace", "path": "/subtitle", "value": "\ud568\uc120\uc73c\ub85c \ub3cc\uc544\uac00\uae30"}, {"op": "replace", "path": "/title", "value": "\uc784\ubb34\uc5d0\uc11c \ub098\uac00\uae30"}]
+[
+  {
+    "op":"replace",
+    "path":"/title",
+    "value":"임무에서 나가기"
+  },
+  {
+    "op":"replace",
+    "path":"/subtitle",
+    "value":"함선으로 텔레포트"
+  },
+  {
+    "op":"replace",
+    "path":"/message",
+    "value":"이 임무에서 떠나면 이 지역의 모든 진행 상황이 초기화됩니다. 정말로 텔레포트하시겠습니까?"
+  },
+  {
+    "op":"replace",
+    "path":"/okCaption",
+    "value":"확인"
+  },
+  {
+    "op":"replace",
+    "path":"/subtitle",
+    "value":"취소"
+  }
+]
