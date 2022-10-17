@@ -1,1 +1,32 @@
-[{"op": "replace", "path": "/gaterepair-findGate/text", "value": "\uc81c \uc2a4\uce94 \uacb0\uacfc \uc774\uacf3\uc5d0\ub294 \uc77c\uc885\uc758 ^orange;\uace0\ub300 \uc5d0\ub108\uc9c0 \ubc1c\uc2e0\uc6d0^reset;\uc774 \uc788\ub294 \uac83 \uac19\uc2b5\ub2c8\ub2e4. \uc81c\uac00 \uacc4\uc0b0\ud574\ubcf4\ub2c8 ^green;32%\uc758 \ud655\ub960\ub85c \uadf8\uac83\uc774 \uc870\uc0ac\ud560\ub9cc\ud55c \uac00\uce58\uac00 \uc788\uc73c\uba70^reset;, 98%\uc758 \ud655\ub960\ub85c \ub2f9\uc2e0\uc774 \ud560 \uc77c\uc774 \uc5c6\ub2e4\ub294 \uacb0\uacfc\uac00 \ub098\uc654\uc2b5\ub2c8\ub2e4."}, {"op": "replace", "path": "/gaterepair-gateFound1b/text", "value": "\ud639\uc2dc \uc774 \uba54\uc138\uc9c0\ub97c \ub4e4\uc73c\uc168\ub2e4\uba74, \ub2f9\uc2e0\uc740 \uc774 ^orange;\uace0\ub300\uc758 \uad00\ubb38^reset;\uc744 \ucc3e\uc73c\uc2e0\uac81\ub2c8\ub2e4. \uc774\uac78 \uc0ac\uc6a9\ud574\uc11c \uc800\ub97c \ucc3e\uc544\uc624\uc138\uc694. ^green;\uc774 \uad00\ubb38\uc744 \uc5f4\ub824\uba74 ^orange;\ud575 \ud30c\ud3b8^green;\uc774 \ud544\uc694\ud560\uac81\ub2c8\ub2e4^reset;."}, {"op": "replace", "path": "/gaterepair-gateFound2/text", "value": "\uc774 \uadfc\ucc98\uc5d0 \uc788\ub294 ^orange;\ud575 \ud30c\ud3b8^reset;\uc744 \uc2a4\uce94\ud574\ubd24\uc2b5\ub2c8\ub2e4. \uc774\uac83\uc740 \uc790\uc5f0\uc801\uc73c\ub85c \ud589\uc131\uc758 \ub545\uc18d\uc5d0 \uc0dd\uc131\ub41c\ub2e4\uace0 \ud569\ub2c8\ub2e4. \ud655\uc778 \uacb0\uacfc \uc774 \ud589\uc131\uc758 \uc911\uc2ec\uc5d0 \ub9ce\uc740 \ub7c9\uc758 \ud30c\ud3b8\uc774 \ubc1c\uacac\ub418\uc5c8\uc2b5\ub2c8\ub2e4."}, {"op": "replace", "path": "/gaterepair-gateFound1/text", "value": "\uc81c \uc2a4\uce94 \uacb0\uacfc \uc774 ^orange;\uace0\ub300 \uc5d0\ub108\uc9c0 \ubc1c\uc2e0\uc6d0^reset;\uc5d0\uc11c \uc774\uc0c1\ud55c \ub77c\ub514\uc624 \uc2e0\ud638\uac00 \uc1a1\ucd9c\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4. \ub2f9\uc2e0\uc774 \ub4e4\uc744 \uc218 \uc788\ub3c4\ub85d \uc218\uc815\ud574 \ub4dc\ub9ac\uaca0\uc2b5\ub2c8\ub2e4."}, {"op": "replace", "path": "/gaterepair-gateOpened1/text", "value": "\ub2f9\uc2e0\uc740 \uad00\ubb38\uc744 \uc131\uacf5\uc801\uc73c\ub85c \uc791\ub3d9\uc2dc\ucf30\uc2b5\ub2c8\ub2e4. \ub610\ub2e4\ub978 ^orange;\uba54\uc138\uc9c0^reset;\uac00 \uad00\ubb38\uc744 \ud1b5\ud574 \uc218\uc2e0\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4."}, {"op": "replace", "path": "/gaterepair-gateOpened2/text", "value": "^green;\ub4e4\uc5b4\uc624\uc138\uc694^reset;. \uc800\ub294 \ub3c4\uc6c0\uc774 \uae09\ud788 \ud544\uc694\ud569\ub2c8\ub2e4; \uc6b0\uc8fc\uc758 \uc6b4\uba85\uc774 \ub2ec\ub9b0 \ubb38\uc81c\uc785\ub2c8\ub2e4. ^orange;\uc774 \uad00\ubb38\uc744 \uc774\uc6a9\ud574\uc11c \ubc29\uc8fc\uc5d0 \uc788\ub294 \uc800\ub97c \ucc3e\uc544\uc624\uc138\uc694. \uc544\uc6c3\ud3ec\uc2a4\ud2b8 \uac74\ub108\ud3b8\uc5d0 \uc788\uc2b5\ub2c8\ub2e4^reset;."}]
+[
+ {
+  "op": "replace",
+  "path": "/gaterepair-findGate/text",
+  "value": "스캔 결과 이 행성에 일종의 ^orange;고대의 에너지원^reset;이 있습니다. ^green;조사할 가치가 있을 가능성이 32%^reset;, 그 외엔 달리 할 일이 없으실 가능성이 98% 입니다."
+ },
+ {
+  "op": "replace",
+  "path": "/gaterepair-gateFound1/text",
+  "value": "스캔 결과 이 ^orange;고대의 에너지원^reset; 주위에서 미확인 무선 신호를 받았습니다. 지금 연결해드리겠습니다."
+ },
+ {
+  "op": "replace",
+  "path": "/gaterepair-gateFound1b/text",
+  "value": "이 메세지를 받으셨다면, 분명 ^orange;고대 관문^reset;을 발견했을 겁니다. 그 관문을 이용해서 저를 찾아와주세요. ^orange;행성 핵 파편^green;으로 관문에 동력을 공급할 수 있습니다^reset;."
+ },
+ {
+  "op": "replace",
+  "path": "/gaterepair-gateFound2/text",
+  "value": "가까이에 있는 ^orange;행성 핵 파편^reset;을 살펴봤습니다. 파편들은 이 행성의 지질에 자연적으로 발생합니다; 측정 결과 이 행성의 중심 가까이, 지반 아래 깊은 곳에 많은 광물 군집이 있습니다."
+ },
+ {
+  "op": "replace",
+  "path": "/gaterepair-gateOpened1/text",
+  "value": "성공적으로 관문을 작동시키셨나 보군요. 그리고 또다른 ^orange;메시지^reset;가 들어오고 있는 것 같습니다."
+ },
+ {
+  "op": "replace",
+  "path": "/gaterepair-gateOpened2/text",
+  "value": "^green;부디 찾아와주세요^reset;. 도움이 급합니다. 우주의 운명이 달려있습니다. ^orange;고대 관문을 이용해서 방주 유적에 있는 저를 만나주세요. 아웃포스트 바로 옆에 있습니다^reset;."
+ }
+]
